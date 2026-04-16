@@ -1,5 +1,5 @@
 library(estdaR)
-
+# Comentario Online para el taller
 data(us48)
 
 w1queen <- nb2listw(poly2nb(us48))
